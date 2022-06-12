@@ -1,0 +1,25 @@
+.contenedor {
+  
+  height: 100vh;
+  padding: 10px;
+  background-color: darkgray;
+  font-family:'Courier New', Courier, monospace;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+   }
+   .contenedor-calculadora {
+    width: 400px;
+    height: 600px;
+    padding: 14px;
+    background-color: rgb(56, 71, 66);
+    border-radius: 20px;
+    border: 5px solid rgb(223, 111, 6);
+   }
+   .fila {
+    margin: 4px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+   }
